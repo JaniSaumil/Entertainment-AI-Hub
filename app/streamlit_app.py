@@ -15,7 +15,7 @@ from datetime import datetime
 # ═══════════════════════════════════════════════
 # CONFIGURATION
 # ═══════════════════════════════════════════════
-BRANDING = "Entertainment AI Hub \u2022 Crafted by Saumil \u2022 Microsoft Elevate 2026"
+BRANDING = "Entertainment AI Hub \u2022 Crafted by Saumil Jani \u2022 Microsoft Elevate 2026"
 
 st.set_page_config(
     page_title="Entertainment AI Hub",
@@ -945,7 +945,7 @@ with st.sidebar:
         border: 1px solid rgba(102,126,234,0.15);'>
         <p style='color:#a8b8ff; font-family:Poppins,sans-serif;
            font-weight:700; font-size:0.9rem; margin-bottom:4px;'>
-           Made with \u2764\uFE0F by Saumil
+           Made with \u2764\uFE0F by Saumil Jani
         </p>
         <p style='color:#667eea; font-family:Inter,sans-serif;
            font-size:0.75rem; letter-spacing:1px;'>
@@ -1900,7 +1900,7 @@ st.markdown(f"""
     <div class='footer-brand'>\U0001F3AC Entertainment AI Hub</div>
     <div class='footer-copy'>
         {BRANDING} &bull; v2.0 &bull; Built with Streamlit &bull; Powered by scikit-learn<br>
-        &copy; 2026 Saumil. All rights reserved.
+        &copy; 2026 Saumil Jani. All rights reserved.
     </div>
 </div>
 """, unsafe_allow_html=True)

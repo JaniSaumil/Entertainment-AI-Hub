@@ -178,7 +178,7 @@ Entertainment_AI_Project/
 
 ## 👨‍💻 Developed By
 
-**Saumil**  
+**Saumil Jani**  
 *Microsoft Elevate Internship 2026 Candidate*  
 Passionate about engineering aesthetic, scalable, and intelligent software solutions.
 
